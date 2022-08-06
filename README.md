@@ -1,16 +1,5 @@
 # riverpod_example
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1659821699](https://user-images.githubusercontent.com/58737803/183267088-fcacfcc9-79e4-4ad4-9ccf-546b839e13cd.png)
+![Screenshot_1659821696](https://user-images.githubusercontent.com/58737803/183267090-33733cb6-fa25-421f-9488-8f5bcd460406.png)
+![Screenshot_1659821710](https://user-images.githubusercontent.com/58737803/183267091-927ff33f-7928-40e0-947c-51edc37028c8.png)
